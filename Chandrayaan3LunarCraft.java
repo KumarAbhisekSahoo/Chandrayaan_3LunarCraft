@@ -38,7 +38,7 @@ public class Chandrayaan3LunarCraft {
                 turnDown();
                 break;
             default:
-
+                System.out.println("Please send the correct command!!");
                 break;
         }
     }
