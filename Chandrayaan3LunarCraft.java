@@ -38,7 +38,7 @@ public class Chandrayaan3LunarCraft {
                 turnDown();
                 break;
             default:
-                // Handle invalid command (optional)
+
                 break;
         }
     }
